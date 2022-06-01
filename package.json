@@ -1,0 +1,25 @@
+{
+  "name": "js_algorithms",
+  "version": "1.0.0",
+  "description": "package for utility algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xydon/JS_ALGORITHMS.git"
+  },
+  "keywords": [
+    "datastructures"
+  ],
+  "author": "Xydon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xydon/JS_ALGORITHMS/issues"
+  },
+  "homepage": "https://github.com/Xydon/JS_ALGORITHMS#readme",
+  "devDependencies": {
+    "typescript": "^4.7.2"
+  }
+}
